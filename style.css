@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+}
+.profile {
+  border-radius: 50%;
+  width: 100px;
+}
+h1 {
+  text-shadow: 2px #F8BBD0
+}
+#hobby {
+  font-size: 18px;
+  color: lightblue;
+}
+.Menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links {
+    float: left;
+    color: gold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.links:hover {
+    background-color: red;
+}
+#welcome {
+    background: linear-gradient(#D50000,#212121,#FF6D00);
+}
+#p {
+    background: linear-gradient(#200122,#6f0000);
+}
+#About2 {
+    color: firebrick;
+}
+#swimmer {
+    font-size: 20px;
+    color: royalblue;
+}
+#Suit {
+    background: linear-gradient(#2193b0, #6dd5ed, #FF0099, #493240)
+}
+#About {
+    background: linear-gradient(#00c3ff, #ffff1c)
+}
+#How {
+    background: linear-gradient(#000000, #0f9b0f)
+}
+#Strokes {
+    background: linear-gradient(#800080, #ffc0cb)
+}
